@@ -1,4 +1,4 @@
-### Through my research odyssey 🔍💥, outlined below, I seek to illuminate the molecular intricacies that define cancer vulnerabilities.
+### Through my research odyssey 🔍💥, outlined below 👇 and summearized 👉 [Here](ResOdyssey_Highlights.pdf), I seek to illuminate the molecular intricacies that define cancer vulnerabilities.
 
 ––––––––––––––––––––––
 

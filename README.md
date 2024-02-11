@@ -17,4 +17,6 @@ Moreover, the advancements in computational biology have greatly aided in handli
 
 That's where my interest in the tumoroid niche 🔍🦠, including cancer stem cells (CSCs), data analysis and visualization, comes in. 💥 My passion is to understand how cancer begins and interacts with its surrounding to find effective therapy.
 
-👉 [Here](ResearchOdyssey.md), is my research odyssey.
+👉 [Here](ResearchOdyssey.md), is my research odyssey in detail.
+
+👉 [Here](ResOdyssey_Highlights.pdf), is a summary of its key highlights
